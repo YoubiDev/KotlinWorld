@@ -25,7 +25,7 @@ fun main(args: Array<String>){
     val experiment: Float = 3.14351222f
     val experimentd: Double = 3.124123342436236223423
     val Nachkommerstelle: Double = 3.0 // <- Man muss eine Nachkommerstelle angeben genau wie bei Float
-    
+
     println(experiment)
 
     //Ergebnis: 3.1435122
