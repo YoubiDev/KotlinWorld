@@ -9,6 +9,7 @@ fun main(args: Array<String>){
     var a: Int = 10
     var b: Int = 1337
     var max: Int
+
     if (a > b) {
         max = a
     }
@@ -21,4 +22,3 @@ fun main(args: Array<String>){
 
 
 }
-

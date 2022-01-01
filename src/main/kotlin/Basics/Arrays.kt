@@ -10,7 +10,7 @@ fun main(args: Array<String>){
 
     println(myArray[2]) // Ausgabe: "Lerning by doing!"
 
-    myArray = Array(2){i -> i} // <- Aufzählung von Integer der die Größe von 2 beinhaltet somit von: 0 -> 1
+    myArray = Array(2){i -> i}
 
     println(myArray[1])             // Ausgabe: 1
 }
